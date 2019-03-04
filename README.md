@@ -1,0 +1,2 @@
+# IoT-doorbell
+When a visitor pressed the doorbell, it will publish and an alert will be sent to the registered phone numbers using third party application with the help of API(Application Programming Interface) and also we use webcam so our IoT doorbell will take a picture of visitor and store in Raspberry Pi. We can treat Raspberry Pi as a server and then with the help of Raspberry Pi web server IP we can go to that link where image is stored and that IP is attached to SMS or Email.
